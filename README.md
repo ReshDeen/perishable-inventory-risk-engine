@@ -29,15 +29,7 @@ P.I.R.E. is a production-style MERN + Python + XGBoost platform for perishable i
 
 ## Screenshots
 
-Add your screenshots here before submission:
-
-- Landing page
-- Login page
-- Dashboard
-- Inventory list
-- Prediction result
-- Analytics page
-- Alerts page
+https://drive.google.com/file/d/18A6mohoFrCq-ox87OcnX8LaZ8uwn9Y6U/view?usp=sharing
 
 ## Setup Instructions
 
