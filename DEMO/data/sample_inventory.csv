@@ -1,0 +1,135 @@
+prod_id,prod_name,prod_brand,supplier_location,category,quantity,prod_price,temp,mf_date,exp_date
+PRD-1001,Hummus Classic 200g,Wingreens Farms,Deccan Fresh Hub - Hyderabad,Packaged Foods,91,176.82,17.2,2026-09-16,2026-10-08
+PRD-1002,Cold-Pressed Orange Juice 300ml,Raw Pressery,Western Agri-Logistics - Pune,Beverages,8,100.21,15.5,2026-10-02,2026-10-14
+PRD-1003,Prawns Peeled 250g,FreshToHome,North Cold-Chain Depot - Delhi,Meat,102,366.93,-0.9,2026-10-06,2026-10-14
+PRD-1004,Fresh Pasta Tagliatelle 250g,Sorrento,Coastal Agro Terminal - Chennai,Packaged Foods,16,156.93,24.6,2026-09-29,2026-10-13
+PRD-1005,Cheddar Cheese 200g,Britannia,Coastal Agro Terminal - Chennai,Dairy,20,179.73,1.1,2026-08-29,2026-10-13
+PRD-1006,Fresh Cream 250ml,Amul,Metro Logistics Hub - Mumbai,Dairy,95,72.32,3.6,2026-09-25,2026-10-12
+PRD-1007,Salted Butter 500g,Amul,Coastal Agro Terminal - Chennai,Dairy,17,251.64,1.2,2026-07-13,2026-10-11
+PRD-1008,Chocolate Muffins (Pack of 4),English Oven,Deccan Fresh Hub - Hyderabad,Bakery,92,106.02,16.9,2026-10-05,2026-10-13
+PRD-1009,Fresh Cream 250ml,Amul,Deccan Fresh Hub - Hyderabad,Dairy,86,66.38,1.5,2026-09-23,2026-10-10
+PRD-1010,Probiotic Drink (5x65ml),Yakult,Coastal Agro Terminal - Chennai,Beverages,45,75.64,4.3,2026-09-13,2026-10-13
+PRD-1011,Whole Wheat Bread 400g,Harvest Gold,Deccan Fresh Hub - Hyderabad,Bakery,55,48.11,17.8,2026-09-24,2026-10-11
+PRD-1012,Ripe Strawberries 200g,Mahabaleshwar Farms,Coastal Agro Terminal - Chennai,Fruits & Vegetables,79,108.39,7.4,2026-10-03,2026-10-12
+PRD-1013,Cold Brew Coffee 250ml,Sleepy Owl,Metro Logistics Hub - Mumbai,Beverages,101,114.68,3.4,2026-09-18,2026-10-13
+PRD-1014,Greek Yogurt 400g,Epigamia,Coastal Agro Terminal - Chennai,Dairy,81,83.09,2.8,2026-09-19,2026-10-10
+PRD-1015,Fresh Coconut Water 200ml,Paper Boat,Deccan Fresh Hub - Hyderabad,Beverages,39,53.05,8.8,2026-09-17,2026-10-08
+PRD-1016,Whole Wheat Bread 400g,Harvest Gold,South Distribution Hub - Bengaluru,Bakery,97,49.44,15.0,2026-09-29,2026-10-12
+PRD-1017,Probiotic Drink (5x65ml),Yakult,South Distribution Hub - Bengaluru,Beverages,24,87.18,8.4,2026-09-09,2026-10-09
+PRD-1018,Prawns Peeled 250g,FreshToHome,South Distribution Hub - Bengaluru,Meat,117,372.91,-1.9,2026-09-18,2026-10-08
+PRD-1019,Fresh Chicken Breast 500g,FreshToHome,Western Agri-Logistics - Pune,Meat,13,218.88,-1.7,2026-10-04,2026-10-16
+PRD-1020,Mutton Curry Cut 500g,Licious,Western Agri-Logistics - Pune,Meat,32,571.32,0.1,2026-10-05,2026-10-17
+PRD-1021,Fresh Salsa Dip 200g,Habit,Coastal Agro Terminal - Chennai,Packaged Foods,71,131.91,21.5,2026-09-29,2026-10-17
+PRD-1022,Greek Yogurt 400g,Epigamia,Metro Logistics Hub - Mumbai,Dairy,33,73.81,2.8,2026-10-02,2026-10-16
+PRD-1023,Salted Butter 500g,Amul,North Cold-Chain Depot - Delhi,Dairy,70,256.52,6.6,2026-07-18,2026-10-16
+PRD-1024,Chocolate Muffins (Pack of 4),English Oven,North Cold-Chain Depot - Delhi,Bakery,65,124.26,30.7,2026-10-05,2026-10-16
+PRD-1025,Bell Peppers Tri-color 500g,Greenhouse Direct,Deccan Fresh Hub - Hyderabad,Fruits & Vegetables,64,91.18,14.4,2026-10-09,2026-10-16
+PRD-1026,Salted Butter 500g,Amul,North Cold-Chain Depot - Delhi,Dairy,36,283.08,2.0,2026-07-18,2026-10-16
+PRD-1027,Prawns Peeled 250g,FreshToHome,Coastal Agro Terminal - Chennai,Meat,14,304.98,-0.9,2026-10-11,2026-10-17
+PRD-1028,Cold-Pressed Orange Juice 300ml,Raw Pressery,North Cold-Chain Depot - Delhi,Beverages,101,118.76,10.4,2026-10-03,2026-10-16
+PRD-1029,Chicken Sausages 250g,Zorabian,Metro Logistics Hub - Mumbai,Meat,53,154.1,-0.4,2026-10-06,2026-10-17
+PRD-1030,Button Mushrooms 200g,Himalayan Fresh,Deccan Fresh Hub - Hyderabad,Fruits & Vegetables,76,79.86,9.7,2026-10-09,2026-10-17
+PRD-1031,Fresh Pasta Tagliatelle 250g,Sorrento,Metro Logistics Hub - Mumbai,Packaged Foods,74,176.33,24.7,2026-10-02,2026-10-16
+PRD-1032,Tofu Organic 200g,Health1st,Metro Logistics Hub - Mumbai,Packaged Foods,25,104.11,20.0,2026-09-21,2026-10-16
+PRD-1033,Cold-Pressed Orange Juice 300ml,Raw Pressery,Western Agri-Logistics - Pune,Beverages,20,89.41,8.8,2026-10-04,2026-10-16
+PRD-1034,Prawns Peeled 250g,FreshToHome,South Distribution Hub - Bengaluru,Meat,45,336.52,7.5,2026-10-04,2026-10-16
+PRD-1035,Fresh Salmon Fillet 300g,OceanDelight,Metro Logistics Hub - Mumbai,Meat,45,490.0,0.7,2026-10-09,2026-10-16
+PRD-1036,Paneer (Cottage Cheese) 200g,Nandini,Metro Logistics Hub - Mumbai,Dairy,49,83.97,2.5,2026-10-08,2026-10-16
+PRD-1037,Fresh Salmon Fillet 300g,OceanDelight,Deccan Fresh Hub - Hyderabad,Meat,108,490.76,0.2,2026-10-11,2026-10-17
+PRD-1038,Cold-Pressed Orange Juice 300ml,Raw Pressery,Metro Logistics Hub - Mumbai,Beverages,118,90.58,18.5,2026-10-03,2026-10-17
+PRD-1039,Guacamole Fresh 150g,Holy Moly,Deccan Fresh Hub - Hyderabad,Packaged Foods,92,187.43,17.1,2026-10-06,2026-10-16
+PRD-1040,Vanilla Sponge Cake 350g,Modern Bakery,South Distribution Hub - Bengaluru,Bakery,59,116.46,22.6,2026-10-09,2026-10-17
+PRD-1041,Whole Milk 1L,Amul / Mother Dairy,Western Agri-Logistics - Pune,Dairy,61,49.85,10.9,2026-10-01,2026-10-19
+PRD-1042,Fresh Pasta Tagliatelle 250g,Sorrento,Metro Logistics Hub - Mumbai,Packaged Foods,74,202.31,31.5,2026-10-04,2026-10-18
+PRD-1043,Vanilla Sponge Cake 350g,Modern Bakery,Metro Logistics Hub - Mumbai,Bakery,106,172.93,27.9,2026-10-07,2026-10-18
+PRD-1044,Butter Croissant (Pack of 2),The Bakehouse,Western Agri-Logistics - Pune,Bakery,57,133.05,30.0,2026-10-03,2026-10-18
+PRD-1045,Fresh Salsa Dip 200g,Habit,North Cold-Chain Depot - Delhi,Packaged Foods,8,154.07,23.1,2026-09-30,2026-10-18
+PRD-1046,Tofu Organic 200g,Health1st,Deccan Fresh Hub - Hyderabad,Packaged Foods,25,79.93,22.4,2026-09-24,2026-10-19
+PRD-1047,Paneer (Cottage Cheese) 200g,Nandini,North Cold-Chain Depot - Delhi,Dairy,44,93.81,3.4,2026-10-06,2026-10-18
+PRD-1048,Fresh Chicken Breast 500g,FreshToHome,South Distribution Hub - Bengaluru,Meat,40,257.35,1.5,2026-10-07,2026-10-18
+PRD-1049,Guacamole Fresh 150g,Holy Moly,South Distribution Hub - Bengaluru,Packaged Foods,19,235.14,20.4,2026-10-03,2026-10-19
+PRD-1050,Prawns Peeled 250g,FreshToHome,Coastal Agro Terminal - Chennai,Meat,45,352.85,6.5,2026-10-13,2026-10-19
+PRD-1051,Almond Milk Unsweetened 1L,So Good,Metro Logistics Hub - Mumbai,Beverages,60,222.66,3.9,2026-08-19,2026-10-18
+PRD-1052,Almond Milk Unsweetened 1L,So Good,South Distribution Hub - Bengaluru,Beverages,84,275.25,11.5,2026-08-19,2026-10-18
+PRD-1053,Hummus Classic 200g,Wingreens Farms,Western Agri-Logistics - Pune,Packaged Foods,42,160.12,19.1,2026-09-28,2026-10-19
+PRD-1054,Mutton Curry Cut 500g,Licious,Western Agri-Logistics - Pune,Meat,83,630.56,0.7,2026-10-03,2026-10-19
+PRD-1055,Chocolate Muffins (Pack of 4),English Oven,South Distribution Hub - Bengaluru,Bakery,88,124.8,18.9,2026-10-09,2026-10-18
+PRD-1056,Bell Peppers Tri-color 500g,Greenhouse Direct,Deccan Fresh Hub - Hyderabad,Fruits & Vegetables,106,115.06,6.8,2026-10-03,2026-10-19
+PRD-1057,Fresh Chicken Breast 500g,FreshToHome,North Cold-Chain Depot - Delhi,Meat,101,187.47,0.5,2026-10-05,2026-10-19
+PRD-1058,Tofu Organic 200g,Health1st,Western Agri-Logistics - Pune,Packaged Foods,65,79.79,15.2,2026-09-23,2026-10-18
+PRD-1059,Paneer (Cottage Cheese) 200g,Nandini,North Cold-Chain Depot - Delhi,Dairy,56,91.52,3.2,2026-10-03,2026-10-19
+PRD-1060,Fresh Chicken Breast 500g,FreshToHome,Coastal Agro Terminal - Chennai,Meat,71,256.64,-1.3,2026-10-01,2026-10-18
+PRD-1061,Fresh Cream 250ml,Amul,Western Agri-Logistics - Pune,Dairy,76,75.03,3.4,2026-10-03,2026-10-18
+PRD-1062,Chocolate Muffins (Pack of 4),English Oven,South Distribution Hub - Bengaluru,Bakery,62,141.69,16.4,2026-10-05,2026-10-19
+PRD-1063,Fresh Salmon Fillet 300g,OceanDelight,South Distribution Hub - Bengaluru,Meat,35,614.06,-0.2,2026-10-03,2026-10-19
+PRD-1064,Multi-Grain Bagel,Artisan Bakery,Metro Logistics Hub - Mumbai,Bakery,32,65.35,18.4,2026-10-11,2026-10-18
+PRD-1065,Bell Peppers Tri-color 500g,Greenhouse Direct,Western Agri-Logistics - Pune,Fruits & Vegetables,54,111.64,4.4,2026-10-05,2026-10-19
+PRD-1066,Hummus Classic 200g,Wingreens Farms,Coastal Agro Terminal - Chennai,Packaged Foods,114,177.67,29.1,2026-10-02,2026-10-23
+PRD-1067,Almond Milk Unsweetened 1L,So Good,Deccan Fresh Hub - Hyderabad,Beverages,48,221.74,6.4,2026-08-22,2026-10-21
+PRD-1068,Fresh Pasta Tagliatelle 250g,Sorrento,Western Agri-Logistics - Pune,Packaged Foods,55,172.73,24.8,2026-10-06,2026-10-21
+PRD-1069,Cold-Pressed Orange Juice 300ml,Raw Pressery,Coastal Agro Terminal - Chennai,Beverages,38,87.27,10.7,2026-10-03,2026-10-20
+PRD-1070,Butter Croissant (Pack of 2),The Bakehouse,Coastal Agro Terminal - Chennai,Bakery,111,96.7,22.9,2026-10-08,2026-10-23
+PRD-1071,Whole Wheat Bread 400g,Harvest Gold,Deccan Fresh Hub - Hyderabad,Bakery,33,54.04,15.5,2026-10-13,2026-10-23
+PRD-1072,Salted Butter 500g,Amul,North Cold-Chain Depot - Delhi,Dairy,84,281.96,7.6,2026-07-22,2026-10-20
+PRD-1073,Mutton Curry Cut 500g,Licious,South Distribution Hub - Bengaluru,Meat,37,543.01,8.8,2026-10-03,2026-10-23
+PRD-1074,Prawns Peeled 250g,FreshToHome,South Distribution Hub - Bengaluru,Meat,8,290.81,1.9,2026-10-01,2026-10-20
+PRD-1075,Cold Brew Coffee 250ml,Sleepy Owl,Metro Logistics Hub - Mumbai,Beverages,36,131.53,7.9,2026-09-28,2026-10-23
+PRD-1076,Tofu Organic 200g,Health1st,Deccan Fresh Hub - Hyderabad,Packaged Foods,59,83.89,22.8,2026-09-25,2026-10-20
+PRD-1077,Whole Wheat Bread 400g,Harvest Gold,Deccan Fresh Hub - Hyderabad,Bakery,51,37.11,22.4,2026-10-13,2026-10-22
+PRD-1078,Fresh Broccoli 500g,Hill Farms,Western Agri-Logistics - Pune,Fruits & Vegetables,83,92.52,7.1,2026-10-07,2026-10-21
+PRD-1079,Bell Peppers Tri-color 500g,Greenhouse Direct,South Distribution Hub - Bengaluru,Fruits & Vegetables,16,82.27,5.9,2026-10-02,2026-10-23
+PRD-1080,Ripe Strawberries 200g,Mahabaleshwar Farms,South Distribution Hub - Bengaluru,Fruits & Vegetables,113,92.01,6.3,2026-10-04,2026-10-23
+PRD-1081,Chicken Sausages 250g,Zorabian,South Distribution Hub - Bengaluru,Meat,94,211.62,-0.6,2026-10-08,2026-10-21
+PRD-1082,Cold-Pressed Orange Juice 300ml,Raw Pressery,Deccan Fresh Hub - Hyderabad,Beverages,35,102.21,6.1,2026-10-09,2026-10-21
+PRD-1083,Fresh Broccoli 500g,Hill Farms,North Cold-Chain Depot - Delhi,Fruits & Vegetables,93,71.08,4.6,2026-10-06,2026-10-23
+PRD-1084,Vanilla Sponge Cake 350g,Modern Bakery,South Distribution Hub - Bengaluru,Bakery,75,179.76,18.1,2026-10-06,2026-10-22
+PRD-1085,Chocolate Muffins (Pack of 4),English Oven,Deccan Fresh Hub - Hyderabad,Bakery,20,101.56,16.1,2026-10-09,2026-10-22
+PRD-1086,Probiotic Drink (5x65ml),Yakult,Western Agri-Logistics - Pune,Beverages,102,86.79,4.8,2026-09-21,2026-10-21
+PRD-1087,Fresh Coconut Water 200ml,Paper Boat,Western Agri-Logistics - Pune,Beverages,95,49.53,5.6,2026-09-30,2026-10-20
+PRD-1088,Fresh Salmon Fillet 300g,OceanDelight,Coastal Agro Terminal - Chennai,Meat,116,437.88,0.8,2026-10-13,2026-10-20
+PRD-1089,Whole Milk 1L,Amul / Mother Dairy,Coastal Agro Terminal - Chennai,Dairy,37,73.96,2.0,2026-10-06,2026-10-22
+PRD-1090,Whole Milk 1L,Amul / Mother Dairy,Western Agri-Logistics - Pune,Dairy,24,46.61,9.3,2026-10-06,2026-10-23
+PRD-1091,Whole Wheat Bread 400g,Harvest Gold,North Cold-Chain Depot - Delhi,Bakery,84,46.92,18.7,2026-10-12,2026-10-21
+PRD-1092,Cold Brew Coffee 250ml,Sleepy Owl,Western Agri-Logistics - Pune,Beverages,77,111.44,7.9,2026-09-28,2026-10-23
+PRD-1093,Fresh Cream 250ml,Amul,North Cold-Chain Depot - Delhi,Dairy,25,74.81,1.6,2026-10-01,2026-10-20
+PRD-1094,Prawns Peeled 250g,FreshToHome,Metro Logistics Hub - Mumbai,Meat,42,339.38,6.5,2026-10-11,2026-10-20
+PRD-1095,Fresh Salmon Fillet 300g,OceanDelight,Deccan Fresh Hub - Hyderabad,Meat,38,470.03,-1.7,2026-10-02,2026-10-22
+PRD-1096,Probiotic Drink (5x65ml),Yakult,North Cold-Chain Depot - Delhi,Beverages,110,93.17,8.5,2026-10-07,2026-11-06
+PRD-1097,Whole Milk 1L,Amul / Mother Dairy,Coastal Agro Terminal - Chennai,Dairy,41,62.08,3.2,2026-10-01,2026-10-29
+PRD-1098,Paneer (Cottage Cheese) 200g,Nandini,Coastal Agro Terminal - Chennai,Dairy,68,95.01,3.8,2026-10-09,2026-11-15
+PRD-1099,Fresh Cream 250ml,Amul,Deccan Fresh Hub - Hyderabad,Dairy,34,55.78,2.8,2026-10-07,2026-10-25
+PRD-1100,Almond Milk Unsweetened 1L,So Good,North Cold-Chain Depot - Delhi,Beverages,101,222.41,4.7,2026-08-25,2026-10-24
+PRD-1101,Baby Carrots 250g,Organic Valley,Coastal Agro Terminal - Chennai,Fruits & Vegetables,86,57.56,5.1,2026-10-06,2026-11-13
+PRD-1102,Paneer (Cottage Cheese) 200g,Nandini,Coastal Agro Terminal - Chennai,Dairy,47,105.73,3.0,2026-10-07,2026-11-04
+PRD-1103,Fresh Pasta Tagliatelle 250g,Sorrento,Metro Logistics Hub - Mumbai,Packaged Foods,63,174.01,23.1,2026-10-03,2026-11-02
+PRD-1104,Multi-Grain Bagel,Artisan Bakery,Deccan Fresh Hub - Hyderabad,Bakery,5,78.01,18.6,2026-10-12,2026-11-03
+PRD-1105,Cold Brew Coffee 250ml,Sleepy Owl,Coastal Agro Terminal - Chennai,Beverages,85,127.82,5.6,2026-10-12,2026-11-06
+PRD-1106,Greek Yogurt 400g,Epigamia,Metro Logistics Hub - Mumbai,Dairy,67,112.85,7.8,2026-10-05,2026-11-01
+PRD-1107,Salted Butter 500g,Amul,Coastal Agro Terminal - Chennai,Dairy,75,267.54,1.5,2026-08-14,2026-11-12
+PRD-1108,Greek Yogurt 400g,Epigamia,Deccan Fresh Hub - Hyderabad,Dairy,68,109.93,1.4,2026-10-12,2026-11-19
+PRD-1109,Vanilla Sponge Cake 350g,Modern Bakery,Western Agri-Logistics - Pune,Bakery,63,143.06,19.3,2026-10-09,2026-11-15
+PRD-1110,Chicken Sausages 250g,Zorabian,Coastal Agro Terminal - Chennai,Meat,40,210.48,1.5,2026-10-04,2026-10-30
+PRD-1111,Vanilla Sponge Cake 350g,Modern Bakery,Coastal Agro Terminal - Chennai,Bakery,89,151.09,17.7,2026-10-13,2026-11-01
+PRD-1112,Chicken Sausages 250g,Zorabian,South Distribution Hub - Bengaluru,Meat,63,188.04,0.2,2026-10-06,2026-11-10
+PRD-1113,Mutton Curry Cut 500g,Licious,Coastal Agro Terminal - Chennai,Meat,100,458.73,1.1,2026-10-07,2026-11-11
+PRD-1114,Fresh Pasta Tagliatelle 250g,Sorrento,North Cold-Chain Depot - Delhi,Packaged Foods,9,142.17,21.5,2026-10-03,2026-11-05
+PRD-1115,Almond Milk Unsweetened 1L,So Good,Metro Logistics Hub - Mumbai,Beverages,63,251.56,6.4,2026-09-04,2026-11-03
+PRD-1116,Fresh Salsa Dip 200g,Habit,South Distribution Hub - Bengaluru,Packaged Foods,38,149.08,15.7,2026-10-03,2026-11-06
+PRD-1117,Cold Brew Coffee 250ml,Sleepy Owl,South Distribution Hub - Bengaluru,Beverages,53,132.97,10.5,2026-10-12,2026-11-13
+PRD-1118,Fresh Pasta Tagliatelle 250g,Sorrento,North Cold-Chain Depot - Delhi,Packaged Foods,41,180.49,27.8,2026-10-05,2026-11-20
+PRD-1119,Hummus Classic 200g,Wingreens Farms,Deccan Fresh Hub - Hyderabad,Packaged Foods,26,145.03,22.0,2026-10-12,2026-11-06
+PRD-1120,Whole Wheat Bread 400g,Harvest Gold,North Cold-Chain Depot - Delhi,Bakery,23,42.5,17.6,2026-10-08,2026-10-25
+PRD-1121,Cold Brew Coffee 250ml,Sleepy Owl,Coastal Agro Terminal - Chennai,Beverages,116,93.95,3.7,2026-10-03,2026-11-11
+PRD-1122,Probiotic Drink (5x65ml),Yakult,Deccan Fresh Hub - Hyderabad,Beverages,37,80.08,16.6,2026-10-04,2026-11-08
+PRD-1123,Paneer (Cottage Cheese) 200g,Nandini,South Distribution Hub - Bengaluru,Dairy,80,108.36,1.2,2026-10-03,2026-11-02
+PRD-1124,Fresh Pasta Tagliatelle 250g,Sorrento,Coastal Agro Terminal - Chennai,Packaged Foods,114,209.95,18.0,2026-10-09,2026-11-15
+PRD-1125,Greek Yogurt 400g,Epigamia,Deccan Fresh Hub - Hyderabad,Dairy,7,101.96,1.9,2026-10-04,2026-11-05
+PRD-1126,Button Mushrooms 200g,Himalayan Fresh,Deccan Fresh Hub - Hyderabad,Fruits & Vegetables,82,79.21,8.7,2026-10-04,2026-10-24
+PRD-1127,Button Mushrooms 200g,Himalayan Fresh,Western Agri-Logistics - Pune,Fruits & Vegetables,29,56.57,8.8,2026-10-01,2026-11-17
+PRD-1128,Butter Croissant (Pack of 2),The Bakehouse,Metro Logistics Hub - Mumbai,Bakery,61,98.54,20.8,2026-10-12,2026-11-13
+PRD-1129,Fresh Coconut Water 200ml,Paper Boat,North Cold-Chain Depot - Delhi,Beverages,27,56.21,15.8,2026-10-11,2026-11-16
+PRD-1130,Prawns Peeled 250g,FreshToHome,Coastal Agro Terminal - Chennai,Meat,110,296.45,-0.9,2026-10-05,2026-11-04
+PRD-1131,Defective Entry - Inverted Dates,DemoBrand,Metro Logistics Hub - Mumbai,Dairy,25,60.0,3.5,2026-10-26,2026-10-16
+PRD-1132,Defective Entry - Negative Quantity,DemoBrand,North Cold-Chain Depot - Delhi,Bakery,-10,45.0,20.0,2026-10-06,2026-10-21
+,Defective Entry - Missing ID,DemoBrand,South Distribution Hub - Bengaluru,Meat,15,250.0,0.5,2026-10-11,2026-10-18
+PRD-1001,Duplicate ID Example,DemoBrand,Coastal Agro Terminal - Chennai,Beverages,30,85.0,5.0,2026-10-08,2026-10-28

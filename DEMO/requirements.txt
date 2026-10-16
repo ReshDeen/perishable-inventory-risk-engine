@@ -1,0 +1,12 @@
+streamlit>=1.39.0
+xgboost>=2.1.0
+pandas>=2.2.0
+numpy>=1.26.0,<3.0.0
+scikit-learn>=1.5.0
+plotly>=5.24.0
+pymongo>=4.9.0
+reportlab>=4.2.0
+openpyxl>=3.1.0
+joblib>=1.4.0
+pytest>=8.3.0
+python-dotenv>=1.0.0

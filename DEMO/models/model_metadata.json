@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "trained_at": "2026-10-16T20:53:32.547844",
+  "train_samples": 12,
+  "test_samples": 3,
+  "classes_present": [
+    "LOW",
+    "EXPIRED"
+  ],
+  "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  "confusion_matrix": [
+    [
+      1,
+      0
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "classification_report": {
+    "LOW": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "EXPIRED": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    }
+  },
+  "warnings": [
+    "Trained on proxy rule-based labels. Serves as educational baseline and does not imply physical lab verification."
+  ],
+  "error": null,
+  "model_path": "C:\\Users\\deenr\\Desktop\\FinalYearProject\\DEMO\\models\\pire_xgboost_model.joblib",
+  "preprocessor_path": "C:\\Users\\deenr\\Desktop\\FinalYearProject\\DEMO\\models\\pire_preprocessor.joblib",
+  "metadata_path": "C:\\Users\\deenr\\Desktop\\FinalYearProject\\DEMO\\models\\model_metadata.json",
+  "target_source": "Generated proxy rule-based labels (Rule-based training baseline)"
+}
